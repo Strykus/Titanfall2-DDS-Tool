@@ -1,8 +1,11 @@
-# Titanfall2-DDS-Tool
+# Titanfall2-DDS-Tool-V2.0
+
+# Unofficiall Release by Avalar
+Added Support For all Weapon Attachments
+Added Wingman Elite
+
 script to automatically apply dds textures to pc_stream.starpak 
 
-**I do not plan to continue updating this tool.  
-There are better alternatives available**
 
 **This tool does not create backups**
 
