@@ -1,6 +1,6 @@
 # Titanfall2-DDS-Tool-V2.0
 
-# Unofficiall Release by Avalar
+## Unofficiall Release by Avalar
 V2.0
 
 - Added Support For all Weapon Attachments
