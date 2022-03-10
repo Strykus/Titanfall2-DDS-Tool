@@ -2139,7 +2139,7 @@ def menu(message):
         elif option == 40:
             clear()
             confirm_selection(pro_screen)
-#            option = 0
+            option = 0
 #        elif option == 37:
 #            clear()
 #            confirm_selection(hcog2)
