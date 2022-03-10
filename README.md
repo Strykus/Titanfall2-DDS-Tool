@@ -27,7 +27,7 @@ Currently supported DDS textures:
 INSTRUCTIONS:
 
 1. Copy pc_stream starpak into the same folder as the exe.
-2. Put DDS files in their appropriate folders. (dds2048, dds_1024, dds_512)
+2. Put DDS files in their appropriate folders. (dds_2048, dds_1024, dds_512)
 3. Rename the dds file so that the last 3 characters match match the texture type,
    see above table.
 4. Run the program.
